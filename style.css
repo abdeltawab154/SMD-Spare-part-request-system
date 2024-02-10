@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+}
+
+.header {
+    background-color: #3498db;
+    padding: 20px 0;
+}
+
+.header .container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 50px; /* Adjust the width according to your logo size */
+    height: auto;
+    margin-right: 20px;
+}
+
+.header-title {
+    color: #fff;
+    margin: 0;
+}
+
+.container {
+    padding: 20px;
+    max-width: 800px; /* Adjust the max-width according to your design */
+    margin: auto; /* Center the container */
+}
+
+form {
+    margin-top: 20px;
+}
+/* Existing styles (unchanged) */
+
+.table {
+    margin-top: 20px;
+}
+
+/* Add your other styling rules here */
+
+
+/* Add your other styling rules here */
